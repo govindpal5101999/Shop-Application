@@ -1,0 +1,9 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/storedatabase
+spring.datasource.driver-class-name=org.postgresql.jdbc.Driver
+spring.datasource.username=postgres
+spring.datasource.password=testing
+server.port= 8086
+
+
+#only for devlepment use "create" but for production use "none"
+spring.jpa.hibernate.ddl-auto = update
