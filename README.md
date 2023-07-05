@@ -6,6 +6,11 @@ This application is developed for the management of shope items for sale and pur
 2.Client code open in vscode and run ng s -o.
 3.Open in eclipse and import existing maven project which is "store-backend".
 
+# Technologies
+1.Angular(Front-End)
+2.Spring Boot(Backend)
+3.Postgresql(Database)
+
 # Output
 Home
 ![home](https://github.com/govindpal5101999/Shope-Application/assets/108825404/b738e4c0-8f82-4089-a688-a268f48ad50f)
