@@ -1,4 +1,4 @@
-# Shope-Application
+# Shop-Application
 This application is developed for the management of shope items for sale and purchase.This application is also having a feature of display top 5 selling products list and daily basis sales revenue amount.
 
 # Installation
